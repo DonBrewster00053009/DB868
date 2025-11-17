@@ -2,13 +2,13 @@ body
 
 		wrapper
 		{
-			width:100 ;
+			width:100% ;
 			margin: 0 auto ;
 		}
 		header
 		{
-			width:100 ;
-			height:150 ;
+			width:100% ;
+			height:150px ;
 			background:#FF7276 ;
 			position:relative;
 		}	
@@ -100,5 +100,6 @@ body
 	
 
 	
+
 
 
