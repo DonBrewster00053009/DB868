@@ -2,35 +2,35 @@ body
 
 		wrapper
 		{
-			width:90 % ;
+			width:100% ;
 			margin: 0 auto ;
 		}
 		header
 		{
-			width:100 % ;
+			width:100% ;
 			height:150 px ;
 			background:#FF7276 ;
 			position:relative;
 		}	
 		img 
 		{
-			border-radius:15px ;
+			border-radius:15 px ;
 			object-fit:cover ;
 		}	
 		nav
 		{
 			float:right ;
-			line-height:0px ;
+			line-height:0 px ;
 		}
 		nav a
 		{
 			text-decoration:none ;
 			font-family:cursive ;
-			letter-spacing:4px ;
-			font-size:20px ;
+			letter-spacing:4 px ;
+			font-size:20 px ;
 			color:blue ;
-			padding: 10px 10px ;
-			margin: 10px 10px ;
+			padding: 10 px 10 px ;
+			margin: 10 px 10 px ;
 		}
 		nav a:hover
 		{
@@ -41,7 +41,7 @@ body
 		text
 		{
 			font-family:cursive ;
-			padding:5px ;
+			padding:5 px ;
 		}
 		h1
 		{
@@ -76,7 +76,7 @@ body
 			background-color:#ff7276 ;
 			border-collapse:collapse ;
 			border-color:black ;
-			padding: 5px ;
+			padding: 5 px ;
 		}
 		th, td
 		{
@@ -100,3 +100,4 @@ body
 	
 
 	
+
